@@ -1,14 +1,10 @@
 {
-  "title": "Somali Youth",
-  "text": "Mentoring and guiding our youth serves our future..",
+  "title": "Somali Youth Throughout The Ages",
+  "text": "This website was designed to document the journeys the Somali youth have made throughout the years; pre-civi war and post-civil war.",
   "button": [
     {
       "title": "Explore",
       "color": "lightblue"
-    },
-    {
-      "title": "Learn more",
-      "color": "red"
     }
   ]
 }
