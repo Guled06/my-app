@@ -83,12 +83,10 @@ const Footer = ({ t }: any) => {
             <Col lg={10} md={10} sm={12} xs={12}>
               <Empty />
               <Language>{t("Address")}</Language>
-              <Para>Rancho Santa Margarita</Para>
-              <Para>2131 Elk Street</Para>
-              <Para>California</Para>
+              <Para>San Diego, CA</Para>
             </Col>
             <Col lg={8} md={8} sm={12} xs={12}>
-              <Title>{t("Company")}</Title>
+              <Title>{t("More")}</Title>
               <Large left="true" to="/">
                 {t("About")}
               </Large>
@@ -160,12 +158,6 @@ const Footer = ({ t }: any) => {
                 href="/"
                 src="medium.svg"
               />
-              <a href="/">
-                <img
-                  src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=adrinlol&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"
-                  alt="Buy me a pizza"
-                />
-              </a>
             </FooterContainer>
           </Row>
         </Container>
