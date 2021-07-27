@@ -61,12 +61,12 @@ const Footer = ({ t }: any) => {
               </a>
             </Col>
             <Col lg={8} md={8} sm={12} xs={12}>
-              <Title>{t("Policy")}</Title>
+              <Title>{t("Love & Peace")}</Title>
               <Large to="/" left="true">
-                {t("Application Security")}
+                {t("Humanity")}
               </Large>
               <Large left="true" to="/">
-                {t("Software Principles")}
+                {t("Humility")}
               </Large>
             </Col>
             <Col lg={6} md={6} sm={12} xs={12}>
