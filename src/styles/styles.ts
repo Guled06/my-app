@@ -27,7 +27,7 @@ export const Styles = createGlobalStyle`
         padding:0;
         border: 0;
         outline: 0;
-        background: black;
+        background: tan;
         overflow-x: hidden;
     }
 
@@ -72,7 +72,7 @@ export const Styles = createGlobalStyle`
     }
 
     p {
-        color: white;
+        color: black;
         font-size: 21px;        
         line-height: 1.41;
     }
